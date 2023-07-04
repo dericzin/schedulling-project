@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoDBConnection = "mongodb+srv://admin:admin@schedullingapi.tjayz6f.mongodb.net/"
+const mongoDBConnection = "YourMongoDBConnection"
 
 
 const connectToMongoDB = () => {
